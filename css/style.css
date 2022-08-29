@@ -160,6 +160,7 @@ h2 span {
   background-color: rgb(255, 141, 100);
   height: 400vh;
   position: absolute;
+  overflow: hidden;
 }
 
 .bodytext2{
@@ -218,6 +219,7 @@ h2 span {
   .section2 {
     background-color: rgb(255, 141, 100);
     height: 120vh;
+    overflow: hidden;
   }
   
   .bodytext{
