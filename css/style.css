@@ -30,6 +30,20 @@ body, html {
   background-size: cover;
 }
 
+.languages {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+}
+
+.languages img{
+  display: block;
+  width: 10%;
+  align-items: center;
+}
+
 .image {
     position: relative;
     width: 700px;
